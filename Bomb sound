@@ -1,1 +1,6 @@
+import simpleaudio as sa
 
+filename = 'Bombsound.wav'
+wave_obj = sa.WaveObject.from_wave_file(Bombsound)
+play_obj = wave_obj.play()
+play_obj.wait_done() # Wait until sound has finished playing
