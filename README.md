@@ -1,5 +1,7 @@
 # notabombbot
 
+**This branch is a branch for in progress things for the notabombbot project.**
+
 Project for Youtube.
 
 https://gpiozero.readthedocs.io/en/stable/
